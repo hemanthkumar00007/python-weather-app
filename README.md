@@ -1,35 +1,39 @@
 # Python Weather App
 
-A simple weather forecasting web application developed using Python and Flask.
+A desktop weather forecasting application developed using Python and Tkinter.
 
 ## Features
-- Search weather by city
-- Displays temperature
-- Displays weather condition
-- Simple user interface
+
+* Search weather by city
+* Displays temperature and humidity
+* Weather condition display
+* User-friendly GUI
+* API integration using OpenWeatherMap
 
 ## Technologies Used
-- Python
-- Flask
-- HTML
-- CSS
+
+* Python
+* Tkinter
+* Requests API
 
 ## Installation
 
 ```bash
-pip install flask requests
+pip install requests
 ```
 
 ## Run the Project
 
 ```bash
-python weather_app.py
+python app.py
 ```
 
 ## Future Improvements
-- Add 5-day forecast
-- Add live location weather
-- Improve UI design
+
+* Add weather icons
+* Add 5-day forecast
+* Improve GUI design
 
 ## Author
-Hemanthkumar
+
+Hemanth Kumar
